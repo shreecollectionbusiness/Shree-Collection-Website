@@ -22,7 +22,7 @@ export function Hero() {
 
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <div className="flex justify-center mb-6">
-          <img src="src/assets/shree-logo.webp" alt="logo" style={{ width: '10vw' }} />
+          <img src="https://res.cloudinary.com/detdvgdqp/image/upload/v1770490716/Adobe_Express_-_file_1_ny3h31.webp" alt="logo" style={{ width: '10vw' }} />
         </div>
 
         <h1
